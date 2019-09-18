@@ -12,8 +12,12 @@ The most popular words are to be expected :
 > Me
 
 There are a few interesting words :
+```
 > Kapaichumarimarichupako
+
 > Elegushi
+
 > Skiibii
+```
 
 # :D
